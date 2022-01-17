@@ -7,4 +7,4 @@ Podczas kręcenia potencjometrem, który jest odpowiedzialny za zwiększenie szy
 # Projekt budowy w programie Eagle
 ![img](./firmware/Płytka2.PNG)
 # Wygląd płytki:
-![img](./firmware/Płytka1.PNG)
+![img](./firmware/Płytka.PNG)
