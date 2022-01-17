@@ -1,2 +1,3 @@
-# labs-tm-project
+# Projek techniki Mikroprocesorowej 
+
 ![img](./Płytka.PNG)
