@@ -2,4 +2,4 @@
 Sterownik wentylatora komputera
 # Opis działania
 
-![img](./firmawe/Płytka2.PNG)
+![img](.firmware/Płytka2.PNG)
